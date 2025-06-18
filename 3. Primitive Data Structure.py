@@ -7,7 +7,7 @@
 # : Integer, Float, String
 
 angka_1 = 15
-angka_2 = 15.7
+angka_2 = 15.8
 print(type(angka_1))
 print(type(angka_2))
 
